@@ -1,6 +1,5 @@
 package airplanes;
 
-
 public abstract class Airplane {
     private String model;
     private int capacity;

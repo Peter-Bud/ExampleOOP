@@ -1,6 +1,5 @@
 package airplanes;
 
-
 public class AirplaneFactory {
     public static Airplane createAirplane(String type, String model, int capacity) {
         switch (type) {
